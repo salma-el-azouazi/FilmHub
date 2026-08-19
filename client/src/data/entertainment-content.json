@@ -1,0 +1,1042 @@
+{
+  "movies": [
+    {
+      "title": "Mad Max: Fury Road",
+      "genre": "Action, Sci-Fi",
+      "summary": "A rebel warrior helps five women escape a desert tyrant in a nonstop chase across the wasteland. The story is built on survival, sacrifice, and clean action movement.",
+      "year": 2015,
+      "main_cast": ["Charlize Theron", "Tom Hardy", "Nicholas Hoult", "Hugh Keays-Byrne"],
+      "director": "George Miller",
+      "filming_location": "Namib Desert, Namibia",
+      "trailer_link": "https://www.youtube.com/results?search_query=Mad+Max+Fury+Road+official+trailer"
+    },
+    {
+      "title": "John Wick",
+      "genre": "Action, Thriller",
+      "summary": "A retired assassin returns to the underworld after a personal loss. The film mixes grief, revenge, and sleek fight choreography.",
+      "year": 2014,
+      "main_cast": ["Keanu Reeves", "Michael Nyqvist", "Alfie Allen", "Willem Dafoe"],
+      "director": "Chad Stahelski",
+      "filming_location": "New York City, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=John+Wick+official+trailer"
+    },
+    {
+      "title": "The Dark Knight",
+      "genre": "Action, Crime, Drama",
+      "summary": "Batman faces the Joker, a criminal who wants to turn Gotham's order into chaos. The story explores justice, fear, and moral pressure.",
+      "year": 2008,
+      "main_cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"],
+      "director": "Christopher Nolan",
+      "filming_location": "Chicago, Illinois, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Dark+Knight+official+trailer"
+    },
+    {
+      "title": "Inception",
+      "genre": "Sci-Fi, Action, Thriller",
+      "summary": "A thief who enters dreams is hired to plant an idea inside a target's mind. The mission becomes a maze of memories, guilt, and layered realities.",
+      "year": 2010,
+      "main_cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Marion Cotillard"],
+      "director": "Christopher Nolan",
+      "filming_location": "Los Angeles, California and Paris, France",
+      "trailer_link": "https://www.youtube.com/results?search_query=Inception+official+trailer"
+    },
+    {
+      "title": "Interstellar",
+      "genre": "Sci-Fi, Drama",
+      "summary": "A pilot leaves Earth to search for a new home for humanity. The story connects space travel with family, time, and sacrifice.",
+      "year": 2014,
+      "main_cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine"],
+      "director": "Christopher Nolan",
+      "filming_location": "Alberta, Canada and Iceland",
+      "trailer_link": "https://www.youtube.com/results?search_query=Interstellar+official+trailer"
+    },
+    {
+      "title": "Blade Runner 2049",
+      "genre": "Sci-Fi, Thriller",
+      "summary": "A replicant blade runner discovers a secret that could change the balance between humans and artificial life. The film is slow, atmospheric, and deeply visual.",
+      "year": 2017,
+      "main_cast": ["Ryan Gosling", "Harrison Ford", "Ana de Armas", "Sylvia Hoeks"],
+      "director": "Denis Villeneuve",
+      "filming_location": "Budapest, Hungary",
+      "trailer_link": "https://www.youtube.com/results?search_query=Blade+Runner+2049+official+trailer"
+    },
+    {
+      "title": "Dune",
+      "genre": "Sci-Fi, Adventure, Drama",
+      "summary": "A young heir travels to a desert planet where politics, prophecy, and survival collide. The film builds a huge world through sound, ritual, and scale.",
+      "year": 2021,
+      "main_cast": ["Timothee Chalamet", "Rebecca Ferguson", "Oscar Isaac", "Zendaya"],
+      "director": "Denis Villeneuve",
+      "filming_location": "Wadi Rum, Jordan and Abu Dhabi, United Arab Emirates",
+      "trailer_link": "https://www.youtube.com/results?search_query=Dune+2021+official+trailer"
+    },
+    {
+      "title": "The Matrix",
+      "genre": "Sci-Fi, Action",
+      "summary": "A hacker discovers that reality is a simulated world controlled by machines. He joins a rebellion and learns to bend the rules of the system.",
+      "year": 1999,
+      "main_cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving"],
+      "director": "Lana Wachowski and Lilly Wachowski",
+      "filming_location": "Sydney, Australia",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Matrix+official+trailer"
+    },
+    {
+      "title": "Alien",
+      "genre": "Horror, Sci-Fi",
+      "summary": "A commercial space crew answers a distress signal and brings a deadly life-form aboard. The movie turns a spaceship into a haunted house.",
+      "year": 1979,
+      "main_cast": ["Sigourney Weaver", "Tom Skerritt", "Veronica Cartwright", "Ian Holm"],
+      "director": "Ridley Scott",
+      "filming_location": "Shepperton Studios, England",
+      "trailer_link": "https://www.youtube.com/results?search_query=Alien+1979+official+trailer"
+    },
+    {
+      "title": "Get Out",
+      "genre": "Horror, Thriller",
+      "summary": "A young photographer visits his girlfriend's family and notices disturbing behavior. The film turns social discomfort into sharp psychological horror.",
+      "year": 2017,
+      "main_cast": ["Daniel Kaluuya", "Allison Williams", "Lakeith Stanfield", "Bradley Whitford"],
+      "director": "Jordan Peele",
+      "filming_location": "Fairhope, Alabama, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Get+Out+official+trailer"
+    },
+    {
+      "title": "A Quiet Place",
+      "genre": "Horror, Sci-Fi",
+      "summary": "A family survives in silence while creatures hunt by sound. Every small noise becomes a life-or-death risk.",
+      "year": 2018,
+      "main_cast": ["Emily Blunt", "John Krasinski", "Millicent Simmonds", "Noah Jupe"],
+      "director": "John Krasinski",
+      "filming_location": "Upstate New York, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=A+Quiet+Place+official+trailer"
+    },
+    {
+      "title": "Hereditary",
+      "genre": "Horror, Drama",
+      "summary": "A grieving family uncovers terrifying secrets after the death of their grandmother. The horror grows from trauma, family tension, and ritual dread.",
+      "year": 2018,
+      "main_cast": ["Toni Collette", "Alex Wolff", "Milly Shapiro", "Gabriel Byrne"],
+      "director": "Ari Aster",
+      "filming_location": "Utah, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Hereditary+official+trailer"
+    },
+    {
+      "title": "The Conjuring",
+      "genre": "Horror, Mystery",
+      "summary": "Paranormal investigators help a family facing a violent presence in their farmhouse. The film uses classic haunted-house tension and strong atmosphere.",
+      "year": 2013,
+      "main_cast": ["Vera Farmiga", "Patrick Wilson", "Lili Taylor", "Ron Livingston"],
+      "director": "James Wan",
+      "filming_location": "Wilmington, North Carolina, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Conjuring+official+trailer"
+    },
+    {
+      "title": "It",
+      "genre": "Horror, Fantasy",
+      "summary": "A group of kids face a shape-shifting evil that feeds on fear. Their friendship becomes the only weapon against the creature.",
+      "year": 2017,
+      "main_cast": ["Jaeden Martell", "Bill Skarsgard", "Finn Wolfhard", "Sophia Lillis"],
+      "director": "Andy Muschietti",
+      "filming_location": "Port Hope, Ontario, Canada",
+      "trailer_link": "https://www.youtube.com/results?search_query=It+2017+official+trailer"
+    },
+    {
+      "title": "Scream",
+      "genre": "Horror, Mystery",
+      "summary": "A masked killer stalks a small town while the victims understand horror movie rules. The film mixes scares, mystery, and self-aware comedy.",
+      "year": 1996,
+      "main_cast": ["Neve Campbell", "Courteney Cox", "David Arquette", "Skeet Ulrich"],
+      "director": "Wes Craven",
+      "filming_location": "Santa Rosa, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Scream+1996+official+trailer"
+    },
+    {
+      "title": "The Babadook",
+      "genre": "Horror, Drama",
+      "summary": "A mother and son are haunted by a strange storybook creature. The horror reflects grief, exhaustion, and emotional isolation.",
+      "year": 2014,
+      "main_cast": ["Essie Davis", "Noah Wiseman", "Hayley McElhinney"],
+      "director": "Jennifer Kent",
+      "filming_location": "Adelaide, South Australia",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Babadook+official+trailer"
+    },
+    {
+      "title": "Midsommar",
+      "genre": "Horror, Drama",
+      "summary": "A grieving woman joins friends at a remote Swedish festival that becomes disturbing. Bright sunlight and ritual beauty make the horror feel unusual.",
+      "year": 2019,
+      "main_cast": ["Florence Pugh", "Jack Reynor", "William Jackson Harper", "Will Poulter"],
+      "director": "Ari Aster",
+      "filming_location": "Budapest, Hungary",
+      "trailer_link": "https://www.youtube.com/results?search_query=Midsommar+official+trailer"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "genre": "Thriller, Crime, Horror",
+      "summary": "An FBI trainee seeks help from an imprisoned killer to catch another murderer. The story is tense, intimate, and driven by psychological games.",
+      "year": 1991,
+      "main_cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn", "Ted Levine"],
+      "director": "Jonathan Demme",
+      "filming_location": "Pittsburgh, Pennsylvania, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Silence+of+the+Lambs+official+trailer"
+    },
+    {
+      "title": "Se7en",
+      "genre": "Thriller, Crime",
+      "summary": "Two detectives hunt a serial killer whose crimes follow the seven deadly sins. The film is dark, rainy, and built around moral dread.",
+      "year": 1995,
+      "main_cast": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow", "Kevin Spacey"],
+      "director": "David Fincher",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Se7en+official+trailer"
+    },
+    {
+      "title": "Shutter Island",
+      "genre": "Thriller, Mystery",
+      "summary": "A U.S. marshal investigates a disappearance at an isolated hospital. The case becomes a puzzle about memory, guilt, and perception.",
+      "year": 2010,
+      "main_cast": ["Leonardo DiCaprio", "Mark Ruffalo", "Michelle Williams", "Ben Kingsley"],
+      "director": "Martin Scorsese",
+      "filming_location": "Massachusetts, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Shutter+Island+official+trailer"
+    },
+    {
+      "title": "Gone Girl",
+      "genre": "Thriller, Drama",
+      "summary": "A woman disappears and her husband becomes the center of a media storm. The film studies marriage, image-making, and manipulation.",
+      "year": 2014,
+      "main_cast": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris", "Carrie Coon"],
+      "director": "David Fincher",
+      "filming_location": "Cape Girardeau, Missouri, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Gone+Girl+official+trailer"
+    },
+    {
+      "title": "Prisoners",
+      "genre": "Thriller, Drama",
+      "summary": "A father takes desperate action after his daughter disappears. The story asks how far fear and grief can push a person.",
+      "year": 2013,
+      "main_cast": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis", "Paul Dano"],
+      "director": "Denis Villeneuve",
+      "filming_location": "Georgia, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Prisoners+2013+official+trailer"
+    },
+    {
+      "title": "Knives Out",
+      "genre": "Comedy, Mystery",
+      "summary": "A detective investigates the death of a wealthy mystery writer and his suspicious family. The film is witty, colorful, and full of sharp reversals.",
+      "year": 2019,
+      "main_cast": ["Daniel Craig", "Ana de Armas", "Chris Evans", "Jamie Lee Curtis"],
+      "director": "Rian Johnson",
+      "filming_location": "Massachusetts, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Knives+Out+official+trailer"
+    },
+    {
+      "title": "The Hangover",
+      "genre": "Comedy",
+      "summary": "Three friends wake up in Las Vegas with no memory of the previous night and a missing groom. Their search becomes a chain of chaotic surprises.",
+      "year": 2009,
+      "main_cast": ["Bradley Cooper", "Ed Helms", "Zach Galifianakis", "Justin Bartha"],
+      "director": "Todd Phillips",
+      "filming_location": "Las Vegas, Nevada, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Hangover+official+trailer"
+    },
+    {
+      "title": "Superbad",
+      "genre": "Comedy",
+      "summary": "Two high school friends try to make one final party unforgettable before graduation. The comedy is loud, awkward, and surprisingly sweet.",
+      "year": 2007,
+      "main_cast": ["Jonah Hill", "Michael Cera", "Christopher Mintz-Plasse", "Emma Stone"],
+      "director": "Greg Mottola",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Superbad+official+trailer"
+    },
+    {
+      "title": "Bridesmaids",
+      "genre": "Comedy, Romance",
+      "summary": "A struggling woman becomes maid of honor while her life keeps falling apart. The film blends friendship, embarrassment, and emotional recovery.",
+      "year": 2011,
+      "main_cast": ["Kristen Wiig", "Maya Rudolph", "Rose Byrne", "Melissa McCarthy"],
+      "director": "Paul Feig",
+      "filming_location": "Milwaukee, Wisconsin and Los Angeles, California",
+      "trailer_link": "https://www.youtube.com/results?search_query=Bridesmaids+official+trailer"
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "genre": "Comedy, Drama",
+      "summary": "A hotel concierge and his lobby boy become part of a theft, chase, and friendship story. The movie is precise, funny, and storybook-like.",
+      "year": 2014,
+      "main_cast": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan", "Adrien Brody"],
+      "director": "Wes Anderson",
+      "filming_location": "Gorlitz, Germany",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Grand+Budapest+Hotel+official+trailer"
+    },
+    {
+      "title": "Jojo Rabbit",
+      "genre": "Comedy, Drama",
+      "summary": "A lonely boy in Nazi Germany discovers a hidden Jewish girl in his home. The film uses satire and warmth to challenge hate.",
+      "year": 2019,
+      "main_cast": ["Roman Griffin Davis", "Thomasin McKenzie", "Scarlett Johansson", "Taika Waititi"],
+      "director": "Taika Waititi",
+      "filming_location": "Prague, Czech Republic",
+      "trailer_link": "https://www.youtube.com/results?search_query=Jojo+Rabbit+official+trailer"
+    },
+    {
+      "title": "Parasite",
+      "genre": "Drama, Thriller",
+      "summary": "A poor family infiltrates the home of a wealthy household through a series of clever plans. The story becomes a sharp study of class and survival.",
+      "year": 2019,
+      "main_cast": ["Song Kang-ho", "Cho Yeo-jeong", "Park So-dam", "Choi Woo-shik"],
+      "director": "Bong Joon Ho",
+      "filming_location": "Seoul, South Korea",
+      "trailer_link": "https://www.youtube.com/results?search_query=Parasite+official+trailer"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "summary": "A banker is sentenced to prison and builds a quiet life around hope, patience, and friendship. The film is about endurance in a cruel system.",
+      "year": 1994,
+      "main_cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"],
+      "director": "Frank Darabont",
+      "filming_location": "Mansfield, Ohio, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Shawshank+Redemption+official+trailer"
+    },
+    {
+      "title": "Forrest Gump",
+      "genre": "Drama, Romance",
+      "summary": "A kind man moves through major moments in American history while holding onto love and memory. The film mixes comedy, drama, and nostalgia.",
+      "year": 1994,
+      "main_cast": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"],
+      "director": "Robert Zemeckis",
+      "filming_location": "Savannah, Georgia and South Carolina, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Forrest+Gump+official+trailer"
+    },
+    {
+      "title": "The Godfather",
+      "genre": "Crime, Drama",
+      "summary": "The son of a powerful crime family is drawn deeper into the family business. The film studies loyalty, power, and moral transformation.",
+      "year": 1972,
+      "main_cast": ["Marlon Brando", "Al Pacino", "James Caan", "Diane Keaton"],
+      "director": "Francis Ford Coppola",
+      "filming_location": "New York City, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Godfather+official+trailer"
+    },
+    {
+      "title": "Pulp Fiction",
+      "genre": "Crime, Drama",
+      "summary": "Several crime stories cross paths through strange timing, sharp dialogue, and unexpected violence. The structure makes small moments feel iconic.",
+      "year": 1994,
+      "main_cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson", "Bruce Willis"],
+      "director": "Quentin Tarantino",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Pulp+Fiction+official+trailer"
+    },
+    {
+      "title": "Fight Club",
+      "genre": "Drama, Thriller",
+      "summary": "An office worker and a soap salesman create an underground fight club that becomes something larger and dangerous. The film is about identity, anger, and consumer culture.",
+      "year": 1999,
+      "main_cast": ["Edward Norton", "Brad Pitt", "Helena Bonham Carter", "Meat Loaf"],
+      "director": "David Fincher",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Fight+Club+official+trailer"
+    },
+    {
+      "title": "Joker",
+      "genre": "Drama, Thriller",
+      "summary": "A lonely man in Gotham descends into violence while craving attention and respect. The film presents a dark character study of isolation.",
+      "year": 2019,
+      "main_cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz", "Frances Conroy"],
+      "director": "Todd Phillips",
+      "filming_location": "New York City and Newark, New Jersey, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Joker+2019+official+trailer"
+    },
+    {
+      "title": "Whiplash",
+      "genre": "Drama, Music",
+      "summary": "A young jazz drummer studies under a brutal instructor who pushes him beyond his limits. The film is tense, rhythmic, and emotionally sharp.",
+      "year": 2014,
+      "main_cast": ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist"],
+      "director": "Damien Chazelle",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Whiplash+official+trailer"
+    },
+    {
+      "title": "The Social Network",
+      "genre": "Drama, Biography",
+      "summary": "The creation of Facebook becomes a story of ambition, friendship, betrayal, and ownership. The film moves like a courtroom thriller about modern power.",
+      "year": 2010,
+      "main_cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake", "Armie Hammer"],
+      "director": "David Fincher",
+      "filming_location": "Boston, Massachusetts and Los Angeles, California",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Social+Network+official+trailer"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "genre": "Sci-Fi, Comedy, Drama",
+      "summary": "A laundromat owner is pulled into a multiverse crisis while facing family conflict. The movie turns chaos into a story about love and attention.",
+      "year": 2022,
+      "main_cast": ["Michelle Yeoh", "Ke Huy Quan", "Stephanie Hsu", "Jamie Lee Curtis"],
+      "director": "Daniel Kwan and Daniel Scheinert",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Everything+Everywhere+All+at+Once+official+trailer"
+    },
+    {
+      "title": "Arrival",
+      "genre": "Sci-Fi, Drama",
+      "summary": "A linguist helps communicate with alien visitors whose language changes how time is understood. The story is quiet, emotional, and thoughtful.",
+      "year": 2016,
+      "main_cast": ["Amy Adams", "Jeremy Renner", "Forest Whitaker", "Michael Stuhlbarg"],
+      "director": "Denis Villeneuve",
+      "filming_location": "Montreal, Quebec, Canada",
+      "trailer_link": "https://www.youtube.com/results?search_query=Arrival+2016+official+trailer"
+    },
+    {
+      "title": "Ex Machina",
+      "genre": "Sci-Fi, Thriller",
+      "summary": "A programmer is invited to test an advanced artificial intelligence inside a secluded home. The film becomes a tense game of desire, control, and deception.",
+      "year": 2014,
+      "main_cast": ["Alicia Vikander", "Domhnall Gleeson", "Oscar Isaac", "Sonoya Mizuno"],
+      "director": "Alex Garland",
+      "filming_location": "Valldal, Norway",
+      "trailer_link": "https://www.youtube.com/results?search_query=Ex+Machina+official+trailer"
+    },
+    {
+      "title": "Black Panther",
+      "genre": "Action, Sci-Fi",
+      "summary": "A new king of Wakanda faces a challenger whose anger is tied to the kingdom's hidden history. The film mixes superhero action with cultural identity.",
+      "year": 2018,
+      "main_cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyongo", "Danai Gurira"],
+      "director": "Ryan Coogler",
+      "filming_location": "Atlanta, Georgia and Busan, South Korea",
+      "trailer_link": "https://www.youtube.com/results?search_query=Black+Panther+official+trailer"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "genre": "Action, Sci-Fi",
+      "summary": "The remaining Avengers attempt to reverse a universe-changing defeat. The film closes many character arcs with scale, nostalgia, and spectacle.",
+      "year": 2019,
+      "main_cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson", "Mark Ruffalo"],
+      "director": "Anthony Russo and Joe Russo",
+      "filming_location": "Atlanta, Georgia, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Avengers+Endgame+official+trailer"
+    },
+    {
+      "title": "Mission: Impossible - Fallout",
+      "genre": "Action, Thriller",
+      "summary": "Ethan Hunt races to stop stolen plutonium from becoming a global disaster. The film is famous for practical stunts and clean action momentum.",
+      "year": 2018,
+      "main_cast": ["Tom Cruise", "Henry Cavill", "Rebecca Ferguson", "Simon Pegg"],
+      "director": "Christopher McQuarrie",
+      "filming_location": "Paris, France and New Zealand",
+      "trailer_link": "https://www.youtube.com/results?search_query=Mission+Impossible+Fallout+official+trailer"
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "genre": "Action, Drama",
+      "summary": "An older pilot trains a new group of aviators for a dangerous mission. The film balances aerial spectacle with regret, mentorship, and legacy.",
+      "year": 2022,
+      "main_cast": ["Tom Cruise", "Miles Teller", "Jennifer Connelly", "Glen Powell"],
+      "director": "Joseph Kosinski",
+      "filming_location": "California and Nevada, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Top+Gun+Maverick+official+trailer"
+    },
+    {
+      "title": "Gladiator",
+      "genre": "Action, Drama",
+      "summary": "A betrayed Roman general becomes a gladiator and seeks justice against a corrupt emperor. The film mixes revenge, honor, and ancient spectacle.",
+      "year": 2000,
+      "main_cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen", "Oliver Reed"],
+      "director": "Ridley Scott",
+      "filming_location": "Malta, Morocco, and England",
+      "trailer_link": "https://www.youtube.com/results?search_query=Gladiator+2000+official+trailer"
+    },
+    {
+      "title": "Django Unchained",
+      "genre": "Western, Drama",
+      "summary": "A freed man partners with a bounty hunter to rescue his wife from a plantation owner. The film is violent, stylized, and revenge-driven.",
+      "year": 2012,
+      "main_cast": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio", "Kerry Washington"],
+      "director": "Quentin Tarantino",
+      "filming_location": "California, Louisiana, and Wyoming, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Django+Unchained+official+trailer"
+    },
+    {
+      "title": "La La Land",
+      "genre": "Romance, Musical",
+      "summary": "An actress and a jazz musician fall in love while chasing dreams in Los Angeles. The film celebrates ambition, art, and bittersweet choices.",
+      "year": 2016,
+      "main_cast": ["Ryan Gosling", "Emma Stone", "John Legend", "Rosemarie DeWitt"],
+      "director": "Damien Chazelle",
+      "filming_location": "Los Angeles, California, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=La+La+Land+official+trailer"
+    },
+    {
+      "title": "The Notebook",
+      "genre": "Romance, Drama",
+      "summary": "A summer romance grows into a lifelong love story shaped by class, distance, and memory. The film is emotional and strongly character-focused.",
+      "year": 2004,
+      "main_cast": ["Ryan Gosling", "Rachel McAdams", "James Garner", "Gena Rowlands"],
+      "director": "Nick Cassavetes",
+      "filming_location": "South Carolina, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Notebook+official+trailer"
+    },
+    {
+      "title": "Titanic",
+      "genre": "Romance, Drama",
+      "summary": "A young artist and an upper-class passenger fall in love aboard the doomed ocean liner. The film blends romance, disaster, and historical spectacle.",
+      "year": 1997,
+      "main_cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane", "Kathy Bates"],
+      "director": "James Cameron",
+      "filming_location": "Baja California, Mexico",
+      "trailer_link": "https://www.youtube.com/results?search_query=Titanic+1997+official+trailer"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "genre": "Romance, Sci-Fi, Drama",
+      "summary": "A man tries to erase memories of a failed relationship, only to rediscover why it mattered. The story uses science fiction to explore love and pain.",
+      "year": 2004,
+      "main_cast": ["Jim Carrey", "Kate Winslet", "Kirsten Dunst", "Mark Ruffalo"],
+      "director": "Michel Gondry",
+      "filming_location": "New York City and Montauk, New York, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=Eternal+Sunshine+of+the+Spotless+Mind+official+trailer"
+    },
+    {
+      "title": "Before Sunrise",
+      "genre": "Romance, Drama",
+      "summary": "Two strangers meet on a train and spend one night walking through Vienna. The film is intimate, talkative, and full of small emotional shifts.",
+      "year": 1995,
+      "main_cast": ["Ethan Hawke", "Julie Delpy"],
+      "director": "Richard Linklater",
+      "filming_location": "Vienna, Austria",
+      "trailer_link": "https://www.youtube.com/results?search_query=Before+Sunrise+official+trailer"
+    },
+    {
+      "title": "10 Things I Hate About You",
+      "genre": "Comedy, Romance",
+      "summary": "A teen romance updates Shakespeare with school politics, sharp banter, and emotional honesty. It is playful, charming, and easy to revisit.",
+      "year": 1999,
+      "main_cast": ["Julia Stiles", "Heath Ledger", "Joseph Gordon-Levitt", "Larisa Oleynik"],
+      "director": "Gil Junger",
+      "filming_location": "Tacoma, Washington, USA",
+      "trailer_link": "https://www.youtube.com/results?search_query=10+Things+I+Hate+About+You+official+trailer"
+    }
+  ],
+  "anime": [
+    {
+      "title": "Attack on Titan",
+      "genre": "Action, Dark Fantasy",
+      "summary": "Humanity fights giant man-eating Titans from behind massive walls. The story expands into war, politics, memory, and freedom.",
+      "year_started": 2013,
+      "studio": "Wit Studio, MAPPA",
+      "main_characters": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Attack+on+Titan+official+trailer"
+    },
+    {
+      "title": "Naruto",
+      "genre": "Action, Adventure",
+      "summary": "A young ninja dreams of becoming the leader of his village. The series follows friendship, rivalry, training, and the burden of loneliness.",
+      "year_started": 2002,
+      "studio": "Pierrot",
+      "main_characters": ["Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Naruto+official+trailer"
+    },
+    {
+      "title": "One Piece",
+      "genre": "Adventure, Fantasy",
+      "summary": "A rubber-powered pirate gathers a crew to search for the legendary treasure known as the One Piece. The series mixes comedy, adventure, and emotional worldbuilding.",
+      "year_started": 1999,
+      "studio": "Toei Animation",
+      "main_characters": ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji"],
+      "trailer_link": "https://www.youtube.com/results?search_query=One+Piece+anime+official+trailer"
+    },
+    {
+      "title": "Death Note",
+      "genre": "Psychological, Thriller",
+      "summary": "A student finds a notebook that kills anyone whose name is written inside it. A tense battle of intelligence begins between him and a mysterious detective.",
+      "year_started": 2006,
+      "studio": "Madhouse",
+      "main_characters": ["Light Yagami", "L", "Ryuk", "Misa Amane"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Death+Note+anime+official+trailer"
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "genre": "Action, Fantasy",
+      "summary": "Two brothers search for the Philosopher's Stone after a forbidden ritual goes wrong. The series balances adventure, war, ethics, and family.",
+      "year_started": 2009,
+      "studio": "Bones",
+      "main_characters": ["Edward Elric", "Alphonse Elric", "Winry Rockbell", "Roy Mustang"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Fullmetal+Alchemist+Brotherhood+official+trailer"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "genre": "Action, Fantasy",
+      "summary": "A kind boy becomes a demon slayer after his family is attacked and his sister is transformed. The series is known for emotional fights and striking animation.",
+      "year_started": 2019,
+      "studio": "Ufotable",
+      "main_characters": ["Tanjiro Kamado", "Nezuko Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Demon+Slayer+official+trailer"
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "genre": "Action, Supernatural",
+      "summary": "A student swallows a cursed object and enters a hidden world of sorcerers and monsters. The series mixes stylish battles with dark supernatural stakes.",
+      "year_started": 2020,
+      "studio": "MAPPA",
+      "main_characters": ["Yuji Itadori", "Megumi Fushiguro", "Nobara Kugisaki", "Satoru Gojo"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Jujutsu+Kaisen+official+trailer"
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": "Action, Superhero",
+      "summary": "In a world where most people have powers, a powerless boy dreams of becoming a hero. The series follows training, responsibility, and public hero culture.",
+      "year_started": 2016,
+      "studio": "Bones",
+      "main_characters": ["Izuku Midoriya", "Katsuki Bakugo", "Ochaco Uraraka", "All Might"],
+      "trailer_link": "https://www.youtube.com/results?search_query=My+Hero+Academia+official+trailer"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "genre": "Sci-Fi, Action",
+      "summary": "Bounty hunters travel through space while carrying old regrets. The series blends jazz, noir, westerns, comedy, and melancholy.",
+      "year_started": 1998,
+      "studio": "Sunrise",
+      "main_characters": ["Spike Spiegel", "Jet Black", "Faye Valentine", "Ed"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Cowboy+Bebop+anime+official+trailer"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "genre": "Mecha, Psychological",
+      "summary": "Teen pilots fight mysterious beings while struggling with fear, identity, and emotional isolation. The series becomes both action story and psychological breakdown.",
+      "year_started": 1995,
+      "studio": "Gainax",
+      "main_characters": ["Shinji Ikari", "Rei Ayanami", "Asuka Langley Soryu", "Misato Katsuragi"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Neon+Genesis+Evangelion+official+trailer"
+    },
+    {
+      "title": "Hunter x Hunter",
+      "genre": "Action, Adventure",
+      "summary": "A young boy becomes a Hunter to search for his father and explore a dangerous world. The story grows darker through strategy, friendship, and complex battles.",
+      "year_started": 2011,
+      "studio": "Madhouse",
+      "main_characters": ["Gon Freecss", "Killua Zoldyck", "Kurapika", "Leorio Paradinight"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Hunter+x+Hunter+2011+official+trailer"
+    },
+    {
+      "title": "Steins;Gate",
+      "genre": "Sci-Fi, Thriller",
+      "summary": "A group of friends accidentally discovers a way to send messages through time. Their experiments create painful consequences and a tense race to fix reality.",
+      "year_started": 2011,
+      "studio": "White Fox",
+      "main_characters": ["Rintaro Okabe", "Kurisu Makise", "Mayuri Shiina", "Itaru Hashida"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Steins+Gate+official+trailer"
+    },
+    {
+      "title": "Your Lie in April",
+      "genre": "Romance, Drama",
+      "summary": "A piano prodigy who lost his ability to hear his own music meets a spirited violinist. The series is about grief, inspiration, and performance.",
+      "year_started": 2014,
+      "studio": "A-1 Pictures",
+      "main_characters": ["Kousei Arima", "Kaori Miyazono", "Tsubaki Sawabe", "Ryota Watari"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Your+Lie+in+April+official+trailer"
+    },
+    {
+      "title": "Violet Evergarden",
+      "genre": "Drama, Fantasy",
+      "summary": "A former child soldier becomes a letter writer while learning how emotions work. The series is gentle, beautifully animated, and centered on healing.",
+      "year_started": 2018,
+      "studio": "Kyoto Animation",
+      "main_characters": ["Violet Evergarden", "Gilbert Bougainvillea", "Claudia Hodgins", "Cattleya Baudelaire"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Violet+Evergarden+official+trailer"
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "genre": "Dark Fantasy, Horror",
+      "summary": "A student becomes half-ghoul after a violent encounter and must survive between two worlds. The series explores hunger, identity, and fear.",
+      "year_started": 2014,
+      "studio": "Pierrot",
+      "main_characters": ["Ken Kaneki", "Touka Kirishima", "Rize Kamishiro", "Kishou Arima"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Tokyo+Ghoul+official+trailer"
+    },
+    {
+      "title": "Dragon Ball Z",
+      "genre": "Action, Adventure",
+      "summary": "Goku and his allies defend Earth from powerful enemies across planets and timelines. The series is famous for transformations, battles, and iconic rivalries.",
+      "year_started": 1989,
+      "studio": "Toei Animation",
+      "main_characters": ["Goku", "Vegeta", "Gohan", "Piccolo"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+official+trailer"
+    },
+    {
+      "title": "Bleach",
+      "genre": "Action, Supernatural",
+      "summary": "A teenager gains the powers of a Soul Reaper and protects humans from spirits. The series blends sword fights, underworld politics, and supernatural style.",
+      "year_started": 2004,
+      "studio": "Pierrot",
+      "main_characters": ["Ichigo Kurosaki", "Rukia Kuchiki", "Orihime Inoue", "Uryu Ishida"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Bleach+anime+official+trailer"
+    },
+    {
+      "title": "Code Geass",
+      "genre": "Mecha, Psychological",
+      "summary": "A prince gains a power of absolute command and leads a rebellion under a masked identity. The series mixes strategy, politics, and tragedy.",
+      "year_started": 2006,
+      "studio": "Sunrise",
+      "main_characters": ["Lelouch Lamperouge", "Suzaku Kururugi", "C.C.", "Kallen Kozuki"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Code+Geass+official+trailer"
+    },
+    {
+      "title": "Monster",
+      "genre": "Psychological, Thriller",
+      "summary": "A doctor saves a boy who later becomes a dangerous killer. The series follows guilt, morality, and a long investigation across Europe.",
+      "year_started": 2004,
+      "studio": "Madhouse",
+      "main_characters": ["Kenzo Tenma", "Johan Liebert", "Nina Fortner", "Inspector Lunge"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Monster+anime+official+trailer"
+    },
+    {
+      "title": "Psycho-Pass",
+      "genre": "Sci-Fi, Psychological",
+      "summary": "In a future society, a system predicts criminal intent and controls public safety. Detectives question justice, free will, and surveillance.",
+      "year_started": 2012,
+      "studio": "Production I.G",
+      "main_characters": ["Akane Tsunemori", "Shinya Kogami", "Nobuchika Ginoza", "Shogo Makishima"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Psycho+Pass+official+trailer"
+    },
+    {
+      "title": "Mob Psycho 100",
+      "genre": "Action, Comedy",
+      "summary": "A gentle boy with huge psychic power tries to live a normal life. The series combines wild animation, comedy, and emotional growth.",
+      "year_started": 2016,
+      "studio": "Bones",
+      "main_characters": ["Shigeo Kageyama", "Arataka Reigen", "Ritsu Kageyama", "Dimple"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Mob+Psycho+100+official+trailer"
+    },
+    {
+      "title": "Vinland Saga",
+      "genre": "Action, Historical",
+      "summary": "A young warrior grows up in a brutal world of Vikings, revenge, and war. The story slowly becomes a meditation on violence and purpose.",
+      "year_started": 2019,
+      "studio": "Wit Studio, MAPPA",
+      "main_characters": ["Thorfinn", "Askeladd", "Canute", "Thors"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Vinland+Saga+official+trailer"
+    },
+    {
+      "title": "Haikyu!!",
+      "genre": "Sports, Comedy, Drama",
+      "summary": "A short volleyball player joins a team and learns how teamwork changes the game. The series is energetic, funny, and full of character growth.",
+      "year_started": 2014,
+      "studio": "Production I.G",
+      "main_characters": ["Shoyo Hinata", "Tobio Kageyama", "Daichi Sawamura", "Kei Tsukishima"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Haikyu+official+trailer"
+    },
+    {
+      "title": "Fruits Basket",
+      "genre": "Romance, Fantasy",
+      "summary": "A kind girl becomes connected to a family cursed by zodiac spirits. The series is tender, emotional, and focused on healing from pain.",
+      "year_started": 2019,
+      "studio": "TMS Entertainment",
+      "main_characters": ["Tohru Honda", "Yuki Sohma", "Kyo Sohma", "Shigure Sohma"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Fruits+Basket+2019+official+trailer"
+    },
+    {
+      "title": "Clannad",
+      "genre": "Romance, Drama",
+      "summary": "A troubled student forms bonds with classmates and discovers how family can be rebuilt. The series is emotional and known for its life-after-school story.",
+      "year_started": 2007,
+      "studio": "Kyoto Animation",
+      "main_characters": ["Tomoya Okazaki", "Nagisa Furukawa", "Kyou Fujibayashi", "Kotomi Ichinose"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Clannad+anime+official+trailer"
+    },
+    {
+      "title": "Toradora!",
+      "genre": "Romance, Comedy",
+      "summary": "Two classmates help each other pursue crushes but slowly discover their own feelings. The series is funny, warm, and emotionally sincere.",
+      "year_started": 2008,
+      "studio": "J.C.Staff",
+      "main_characters": ["Ryuuji Takasu", "Taiga Aisaka", "Minori Kushieda", "Yusaku Kitamura"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Toradora+official+trailer"
+    },
+    {
+      "title": "Black Clover",
+      "genre": "Action, Fantasy",
+      "summary": "A boy born without magic trains to become the Wizard King in a world ruled by magical power. The story focuses on persistence, rivalry, and teamwork.",
+      "year_started": 2017,
+      "studio": "Pierrot",
+      "main_characters": ["Asta", "Yuno", "Noelle Silva", "Yami Sukehiro"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Black+Clover+official+trailer"
+    },
+    {
+      "title": "Sword Art Online",
+      "genre": "Action, Fantasy",
+      "summary": "Players become trapped inside a virtual reality game where death in-game means death in real life. The series follows survival, romance, and digital worlds.",
+      "year_started": 2012,
+      "studio": "A-1 Pictures",
+      "main_characters": ["Kirito", "Asuna", "Leafa", "Sinon"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Sword+Art+Online+official+trailer"
+    },
+    {
+      "title": "Re:Zero - Starting Life in Another World",
+      "genre": "Fantasy, Psychological",
+      "summary": "A boy sent to another world gains the ability to return from death and repeat events. The series turns fantasy adventure into psychological pressure.",
+      "year_started": 2016,
+      "studio": "White Fox",
+      "main_characters": ["Subaru Natsuki", "Emilia", "Rem", "Ram"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Re+Zero+official+trailer"
+    },
+    {
+      "title": "Made in Abyss",
+      "genre": "Adventure, Dark Fantasy",
+      "summary": "A young explorer descends into a mysterious abyss to find her mother. The world is beautiful, dangerous, and increasingly unsettling.",
+      "year_started": 2017,
+      "studio": "Kinema Citrus",
+      "main_characters": ["Riko", "Reg", "Nanachi", "Bondrewd"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Made+in+Abyss+official+trailer"
+    }
+  ],
+  "animated_movies": [
+    {
+      "title": "Toy Story",
+      "genre": "Animation, Comedy, Adventure",
+      "summary": "A cowboy toy feels threatened when a space ranger becomes his owner's new favorite. The film turns childhood toys into a story about jealousy and friendship.",
+      "year": 1995,
+      "main_cast": ["Tom Hanks", "Tim Allen", "Don Rickles", "Jim Varney"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Toy+Story+official+trailer"
+    },
+    {
+      "title": "Finding Nemo",
+      "genre": "Animation, Adventure, Comedy",
+      "summary": "A nervous clownfish crosses the ocean to find his missing son. The film is colorful, funny, and centered on courage and trust.",
+      "year": 2003,
+      "main_cast": ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould", "Willem Dafoe"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Finding+Nemo+official+trailer"
+    },
+    {
+      "title": "The Lion King",
+      "genre": "Animation, Drama, Musical",
+      "summary": "A young lion prince runs from his past after a family tragedy. The film follows identity, responsibility, and the return home.",
+      "year": 1994,
+      "main_cast": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons", "Nathan Lane"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Lion+King+1994+official+trailer"
+    },
+    {
+      "title": "Shrek",
+      "genre": "Animation, Comedy, Fantasy",
+      "summary": "An ogre goes on a quest to reclaim his swamp and meets a princess with her own secret. The film plays with fairy-tale rules and unlikely friendship.",
+      "year": 2001,
+      "main_cast": ["Mike Myers", "Eddie Murphy", "Cameron Diaz", "John Lithgow"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Shrek+official+trailer"
+    },
+    {
+      "title": "Frozen",
+      "genre": "Animation, Fantasy, Musical",
+      "summary": "Two sisters are separated by magical fear and a kingdom trapped in ice. The film centers on family love, self-acceptance, and courage.",
+      "year": 2013,
+      "main_cast": ["Kristen Bell", "Idina Menzel", "Jonathan Groff", "Josh Gad"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Frozen+official+trailer"
+    },
+    {
+      "title": "Moana",
+      "genre": "Animation, Adventure, Musical",
+      "summary": "A young voyager sails beyond her island to restore balance to the ocean. The film is bright, musical, and rooted in discovery.",
+      "year": 2016,
+      "main_cast": ["Aulii Cravalho", "Dwayne Johnson", "Rachel House", "Temuera Morrison"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Moana+official+trailer"
+    },
+    {
+      "title": "Inside Out",
+      "genre": "Animation, Comedy, Drama",
+      "summary": "The emotions inside a young girl's mind struggle to guide her through a difficult move. The film makes feelings visual, funny, and deeply human.",
+      "year": 2015,
+      "main_cast": ["Amy Poehler", "Phyllis Smith", "Bill Hader", "Mindy Kaling"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Inside+Out+official+trailer"
+    },
+    {
+      "title": "Coco",
+      "genre": "Animation, Adventure, Musical",
+      "summary": "A music-loving boy travels to the Land of the Dead and discovers family secrets. The film is colorful, emotional, and built around memory.",
+      "year": 2017,
+      "main_cast": ["Anthony Gonzalez", "Gael Garcia Bernal", "Benjamin Bratt", "Alanna Ubach"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Coco+official+trailer"
+    },
+    {
+      "title": "Up",
+      "genre": "Animation, Adventure, Comedy",
+      "summary": "An elderly man lifts his house with balloons and travels toward a lifelong dream. The film mixes grief, comedy, adventure, and new friendship.",
+      "year": 2009,
+      "main_cast": ["Ed Asner", "Jordan Nagai", "Christopher Plummer", "Bob Peterson"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Up+Pixar+official+trailer"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "genre": "Animation, Action, Adventure",
+      "summary": "Miles Morales becomes Spider-Man and meets heroes from other dimensions. The film uses comic-book style to tell a fresh superhero coming-of-age story.",
+      "year": 2018,
+      "main_cast": ["Shameik Moore", "Jake Johnson", "Hailee Steinfeld", "Mahershala Ali"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Spider+Man+Into+the+Spider+Verse+official+trailer"
+    }
+  ],
+  "tv_series": [
+    {
+      "title": "Stranger Things",
+      "genre": "Sci-Fi, Horror, Drama",
+      "summary": "A group of kids discovers supernatural danger connected to a secret lab and another dimension. The series mixes friendship, mystery, and 1980s style.",
+      "year": 2016,
+      "main_cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Finn Wolfhard"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Stranger+Things+official+trailer"
+    },
+    {
+      "title": "Game of Thrones",
+      "genre": "Fantasy, Drama",
+      "summary": "Noble families fight for power while a supernatural threat grows beyond the wall. The series is built on politics, betrayal, and epic scale.",
+      "year": 2011,
+      "main_cast": ["Emilia Clarke", "Kit Harington", "Peter Dinklage", "Lena Headey"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Game+of+Thrones+official+trailer"
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Crime, Drama, Thriller",
+      "summary": "A chemistry teacher turns to making meth after a cancer diagnosis. The series follows his transformation into a dangerous criminal figure.",
+      "year": 2008,
+      "main_cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Breaking+Bad+official+trailer"
+    },
+    {
+      "title": "The Last of Us",
+      "genre": "Drama, Horror, Adventure",
+      "summary": "A survivor escorts a teenage girl across a post-apocalyptic America. The series is about grief, trust, and the cost of protection.",
+      "year": 2023,
+      "main_cast": ["Pedro Pascal", "Bella Ramsey", "Anna Torv", "Gabriel Luna"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Last+of+Us+HBO+official+trailer"
+    },
+    {
+      "title": "The Witcher",
+      "genre": "Fantasy, Action, Drama",
+      "summary": "A monster hunter moves through a world of magic, politics, and destiny. The series follows linked fates across kingdoms and timelines.",
+      "year": 2019,
+      "main_cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan", "Joey Batey"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Witcher+Netflix+official+trailer"
+    },
+    {
+      "title": "The Crown",
+      "genre": "Drama, Biography",
+      "summary": "The series dramatizes the reign of Queen Elizabeth II and the pressures around the British monarchy. It focuses on duty, image, and private cost.",
+      "year": 2016,
+      "main_cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton", "Matt Smith"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Crown+Netflix+official+trailer"
+    },
+    {
+      "title": "The Mandalorian",
+      "genre": "Sci-Fi, Action, Adventure",
+      "summary": "A lone bounty hunter protects a mysterious child across the Star Wars galaxy. The series mixes western structure with space adventure.",
+      "year": 2019,
+      "main_cast": ["Pedro Pascal", "Carl Weathers", "Gina Carano", "Giancarlo Esposito"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Mandalorian+official+trailer"
+    },
+    {
+      "title": "The Boys",
+      "genre": "Action, Comedy, Drama",
+      "summary": "A group of vigilantes exposes corrupt superheroes controlled by a powerful corporation. The series is violent, satirical, and darkly funny.",
+      "year": 2019,
+      "main_cast": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Boys+official+trailer"
+    },
+    {
+      "title": "Westworld",
+      "genre": "Sci-Fi, Drama, Mystery",
+      "summary": "A futuristic theme park filled with android hosts becomes a site of awakening and rebellion. The series questions memory, identity, and control.",
+      "year": 2016,
+      "main_cast": ["Evan Rachel Wood", "Thandiwe Newton", "Jeffrey Wright", "Ed Harris"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Westworld+official+trailer"
+    },
+    {
+      "title": "The Bear",
+      "genre": "Comedy, Drama",
+      "summary": "A chef returns home to run his family's sandwich shop after a loss. The series is fast, emotional, and focused on work, grief, and teamwork.",
+      "year": 2022,
+      "main_cast": ["Jeremy Allen White", "Ayo Edebiri", "Ebon Moss-Bachrach", "Lionel Boyce"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Bear+official+trailer"
+    }
+  ],
+  "kdramas": [
+    {
+      "title": "Crash Landing on You",
+      "genre": "Romance, Drama",
+      "summary": "A South Korean heiress accidentally lands in North Korea and meets an army officer. The series blends romance, danger, and family conflict.",
+      "year": 2019,
+      "main_cast": ["Hyun Bin", "Son Ye-jin", "Seo Ji-hye", "Kim Jung-hyun"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Crash+Landing+on+You+official+trailer"
+    },
+    {
+      "title": "Squid Game",
+      "genre": "Thriller, Drama",
+      "summary": "Cash-strapped contestants enter deadly versions of children's games for a huge prize. The series is tense, social, and visually memorable.",
+      "year": 2021,
+      "main_cast": ["Lee Jung-jae", "Park Hae-soo", "Jung Ho-yeon", "Wi Ha-joon"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Squid+Game+official+trailer"
+    },
+    {
+      "title": "Goblin",
+      "genre": "Fantasy, Romance",
+      "summary": "An immortal guardian searches for the person who can end his curse. The series mixes fantasy mythology, romance, comedy, and melancholy.",
+      "year": 2016,
+      "main_cast": ["Gong Yoo", "Kim Go-eun", "Lee Dong-wook", "Yoo In-na"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Goblin+Kdrama+official+trailer"
+    },
+    {
+      "title": "Descendants of the Sun",
+      "genre": "Romance, Action, Drama",
+      "summary": "A soldier and a doctor fall in love while working in dangerous places. The series balances romance, duty, and rescue missions.",
+      "year": 2016,
+      "main_cast": ["Song Joong-ki", "Song Hye-kyo", "Jin Goo", "Kim Ji-won"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Descendants+of+the+Sun+official+trailer"
+    },
+    {
+      "title": "Itaewon Class",
+      "genre": "Drama, Romance",
+      "summary": "An ex-con opens a bar in Itaewon and fights to build a business against a powerful food company. The story centers on ambition, revenge, and found family.",
+      "year": 2020,
+      "main_cast": ["Park Seo-joon", "Kim Da-mi", "Yoo Jae-myung", "Kwon Nara"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Itaewon+Class+official+trailer"
+    },
+    {
+      "title": "Hotel del Luna",
+      "genre": "Fantasy, Romance",
+      "summary": "A hotel for ghosts is run by a cursed owner with a long past. The series mixes supernatural cases, romance, and beautiful visual design.",
+      "year": 2019,
+      "main_cast": ["IU", "Yeo Jin-goo", "Shin Jung-geun", "Bae Hae-sun"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Hotel+del+Luna+official+trailer"
+    },
+    {
+      "title": "Vincenzo",
+      "genre": "Crime, Comedy, Drama",
+      "summary": "A Korean-Italian lawyer with mafia ties returns to Korea and targets corrupt villains. The series combines revenge, comedy, and stylish crime drama.",
+      "year": 2021,
+      "main_cast": ["Song Joong-ki", "Jeon Yeo-been", "Ok Taec-yeon", "Kim Yeo-jin"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Vincenzo+official+trailer"
+    },
+    {
+      "title": "Twenty-Five Twenty-One",
+      "genre": "Romance, Drama",
+      "summary": "A young fencer and a hardworking student grow close during a difficult economic period. The series is nostalgic, warm, and bittersweet.",
+      "year": 2022,
+      "main_cast": ["Kim Tae-ri", "Nam Joo-hyuk", "Bona", "Choi Hyun-wook"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Twenty+Five+Twenty+One+official+trailer"
+    },
+    {
+      "title": "Extraordinary Attorney Woo",
+      "genre": "Drama, Comedy",
+      "summary": "A brilliant autistic lawyer solves cases while learning workplace and social challenges. The series is gentle, smart, and character-driven.",
+      "year": 2022,
+      "main_cast": ["Park Eun-bin", "Kang Tae-oh", "Kang Ki-young", "Jeon Bae-soo"],
+      "trailer_link": "https://www.youtube.com/results?search_query=Extraordinary+Attorney+Woo+official+trailer"
+    },
+    {
+      "title": "The Glory",
+      "genre": "Drama, Thriller",
+      "summary": "A woman carefully plans revenge against the classmates who violently bullied her. The series is dark, intense, and built around long-term justice.",
+      "year": 2022,
+      "main_cast": ["Song Hye-kyo", "Lee Do-hyun", "Lim Ji-yeon", "Yeom Hye-ran"],
+      "trailer_link": "https://www.youtube.com/results?search_query=The+Glory+official+trailer"
+    }
+  ]
+}

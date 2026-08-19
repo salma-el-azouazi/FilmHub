@@ -1,0 +1,21 @@
+{
+  "name": "filmhub-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FilmHub - 3D movie blog and community platform",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,client \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "set PORT=5202&& set CLIENT_URL=http://127.0.0.1:5275&& npm run dev --workspace server",
+    "dev:client": "set VITE_API_URL=http://127.0.0.1:5202/api&& npm run dev --workspace client -- --host 127.0.0.1 --port 5275 --strictPort",
+    "build": "npm run build --workspace client",
+    "start": "npm run start --workspace server",
+    "lint": "npm run lint --workspace client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

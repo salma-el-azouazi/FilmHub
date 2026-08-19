@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Claude local configuration
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+.vite/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
