@@ -4,24 +4,37 @@ FilmHub is a full-stack cinematic blogging and community platform developed as a
 
 The platform combines movie discovery, cinematic blogging, community interaction, user accounts, content management, administration, analytics, authentication, and a modern interactive 3D-inspired interface.
 
+FilmHub was designed and developed as a complete full-stack application, including a React/TypeScript frontend, Node.js/Express backend, MySQL database, authentication system, administration tools, community features, and production deployment.
+
 ---
 
 ## 🌐 Live Demo
 
 ### Frontend
+
 https://film-hub-iota.vercel.app/
 
 ### Backend API
+
 https://filmhub-api-h1m7.onrender.com
 
-> The frontend is deployed on Vercel, while the Express API is deployed on Render.
-> The production database is hosted through Aiven MySQL.
+### Health Check
+
+https://filmhub-api-h1m7.onrender.com/api/health
+
+> The frontend is deployed on Vercel.
+>
+> The Express backend is deployed on Render.
+>
+> The production MySQL database is hosted through Aiven.
 
 ---
 
 # ✨ Features
 
 ## 🎥 Public Experience
+
+FilmHub provides a cinematic public experience including:
 
 - Cinematic homepage
 - Featured movie content
@@ -34,29 +47,35 @@ https://filmhub-api-h1m7.onrender.com
 - Author profiles
 - About page
 - Contact page
-- Responsive design
+- Responsive interface
 - Cinematic visual effects
 - 3D-inspired hero experience
 - Smooth animations
+- Interactive movie content
+- Movie statistics
+- Trailer embeds
 
 ---
 
-## 👤 User Features
+# 👤 User Features
 
 Registered users can:
 
 - Create an account
-- Log in and log out
+- Log in
+- Log out
 - Remember their session
-- View and edit their profile
+- View their profile
+- Edit their profile
 - Change their password
-- Request password reset
+- Request a password reset
 - Reset their password
 - Create blog posts
 - Edit their posts
 - Save drafts
 - Publish posts
 - View their own posts
+- Delete their posts
 - Bookmark posts
 - Like posts
 - Comment on posts
@@ -69,7 +88,7 @@ Registered users can:
 
 ---
 
-## 📝 Blogging System
+# 📝 Blogging System
 
 FilmHub includes a complete blogging system with:
 
@@ -89,10 +108,12 @@ FilmHub includes a complete blogging system with:
 - Likes
 - Bookmarks
 - Comments
-- Replies
+- Comment replies
+- Comment likes
 - View tracking
+- Trending content
 
-Supported post statuses include:
+### Supported Post Statuses
 
 ```text
 draft
